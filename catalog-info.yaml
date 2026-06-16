@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: java-2-task
+spec:
+  type: service
+  lifecycle: experimental
+  owner: user:sasha
